@@ -1,0 +1,17 @@
+body {
+  background: cover;
+    background-color: lightblue;
+  }
+  
+  h1 {
+    
+    color: white;
+    text-align: center;
+    
+  }
+  
+  h2 {
+    font-family: verdana;
+    font-size: 2000px;
+    text-align: left;
+  }
